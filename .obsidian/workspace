@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "39ea151727196e82",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ef524c121b27296",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24763cdd2af62b4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d791d3a16e5d73d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c61c1d242fb2a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9db946cf44d07401",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "0dc7a277c621c974",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.0036334991455
+  },
+  "right": {
+    "id": "0289a86e41b4fbf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cec12dedfe11ff9d",
+        "type": "tabs",
+        "dimension": 39.73029045643153,
+        "children": [
+          {
+            "id": "154d7334581aa1e4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2714590676696185,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c86b2ba6481a7614",
+        "type": "tabs",
+        "dimension": 60.26970954356846,
+        "children": [
+          {
+            "id": "176b09228d1fb141",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4574e6567b723709",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "795ff110e791332c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4e72d20e91baabf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "893e8bcf501e7422",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5320c1e7b6be724d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.71575927734375,
+    "collapsed": true
+  },
+  "active": "6ef524c121b27296",
+  "lastOpenFiles": [
+    "2_notes/@massucciEnergyMetabolismGlutamateglutamine2013.md",
+    "2_notes/2013.md",
+    "2_notes/note-20220418-093410.md",
+    "2_notes/Calculus of variations.md",
+    "2_notes/Functional.md",
+    "2_notes/Differential.md",
+    "2_notes/shannonMathematicalTheoryCommunication1948_part1_6.md",
+    "2_notes/Entropy of the Gaussian.md",
+    "2_notes/Trace.md",
+    "2_notes/note-20220326-121354.md"
+  ]
+}

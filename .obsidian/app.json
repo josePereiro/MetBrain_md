@@ -1,0 +1,30 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTime",
+  "attachmentFolderPath": "1_assets",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2_notes",
+  "showUnsupportedFiles": true,
+  "spellcheckDictionary": [
+    "Rheinberger",
+    "Leonelli",
+    "Kellert",
+    "sequenciation",
+    "datafying",
+    "TODO"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

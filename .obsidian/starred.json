@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "_dev",
+      "path": "_dev.md"
+    },
+    {
+      "type": "file",
+      "title": "Computation and Biology",
+      "path": "Computation and Biology.md"
+    },
+    {
+      "type": "file",
+      "title": "Computation and Biology",
+      "path": "[Dev] Computation and Biology.md"
+    },
+    {
+      "type": "file",
+      "title": "@trinhDesignConstructionPerformance2006",
+      "path": "@trinhDesignConstructionPerformance2006.md"
+    },
+    {
+      "type": "file",
+      "title": "@alquraishiAlphaFoldCASP132019",
+      "path": "@alquraishiAlphaFoldCASP132019.md"
+    },
+    {
+      "type": "file",
+      "title": "@marxBigChallengesBig2013",
+      "path": "@marxBigChallengesBig2013.md"
+    },
+    {
+      "type": "file",
+      "title": "@likicSystemsBiologyNext2010a",
+      "path": "@likicSystemsBiologyNext2010a.md"
+    },
+    {
+      "type": "file",
+      "title": "@baroneUnmetNeedsAnalyzing2017",
+      "path": "@baroneUnmetNeedsAnalyzing2017.md"
+    },
+    {
+      "type": "file",
+      "title": "@ramananPathwayAnalysisGenomic2012",
+      "path": "@ramananPathwayAnalysisGenomic2012.md"
+    },
+    {
+      "type": "file",
+      "title": "Computation and Biology",
+      "path": "2_notes/Computation and Biology v1.md"
+    },
+    {
+      "type": "file",
+      "title": "Computation and Biology v2",
+      "path": "2_notes/Computation and Biology v2.md"
+    },
+    {
+      "type": "file",
+      "title": "@fillingerChallengesBigData2019",
+      "path": "2_notes/@fillingerChallengesBigData2019.md"
+    },
+    {
+      "type": "file",
+      "title": "@gauthierBriefHistoryBioinformatics2019",
+      "path": "2_notes/@gauthierBriefHistoryBioinformatics2019.md"
+    },
+    {
+      "type": "file",
+      "title": "@hagenOriginsBioinformatics2000",
+      "path": "2_notes/@hagenOriginsBioinformatics2000.md"
+    },
+    {
+      "type": "file",
+      "title": "[Dev] Computation and Biology",
+      "path": "2_notes/[Dev] Computation and Biology.md"
+    }
+  ]
+}

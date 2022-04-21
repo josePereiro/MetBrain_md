@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "2_notes",
+  "literatureNoteContentTemplate": "---\ncitation-template: v0.2.0\ncreation-date: {{date:YYYY:MM:DD-hh:mm:ss}}\n---\n\n%% Preview Links ------------------------------------------------ %%\n[[#_related|related]]\n\n%% Note Body --------------------------------------------------- %%\n# {{title}}\n\n### Meta\n- [[Reference Citation Data#citekey|citekey]]: {{citekey}}\n- [[Reference Citation Data#authors|authors]]: {{authorString}}\n- [[Reference Citation Data#year|year]]: [[{{year}}]]\n- [[Reference Citation Data#doi|doi]]: {{DOI}}\n\n### Abstract:\n{{abstract}}\n\n---\n\n## View\n\n%% Write here %%\n\n\n\n\n\n\n%% Extras ------------------------------------------------------- %%\n#\n___\n\n###### _related: \n%% Add global links/note here %%\n#DocType/ReferenceView #Stub #KeywordsMissing \n\n___",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/Pereiro/Documents/My Library.bib"
+}
