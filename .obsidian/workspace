@@ -7,8 +7,13 @@
         "id": "6ef524c121b27296",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2_notes/(Dev) MetBrain.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2_notes/(Dev) MetBrain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -115,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_notes/(Dev) MetBrain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_notes/(Dev) MetBrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_notes/(Dev) MetBrain.md"
+              }
             }
           },
           {
@@ -181,6 +191,7 @@
   },
   "active": "6ef524c121b27296",
   "lastOpenFiles": [
+    "2_notes/(Dev) MetBrain.md",
     "2_notes/@massucciEnergyMetabolismGlutamateglutamine2013.md",
     "2_notes/2013.md",
     "2_notes/note-20220418-093410.md",
@@ -189,7 +200,6 @@
     "2_notes/Differential.md",
     "2_notes/shannonMathematicalTheoryCommunication1948_part1_6.md",
     "2_notes/Entropy of the Gaussian.md",
-    "2_notes/Trace.md",
-    "2_notes/note-20220326-121354.md"
+    "2_notes/Trace.md"
   ]
 }
